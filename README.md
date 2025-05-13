@@ -76,5 +76,10 @@ PROJECT-WEB/
 - Email: admin@swagcraft.com
 - Пароль: admin123
 
+## Участники
+Сделали:
+- Петров Леонид
+- Смирнова Иванна
+
 
 
